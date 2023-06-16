@@ -1,0 +1,5 @@
+Graduate.openspeech/outputs/*
+*.ckpt
+Graduate.openspeech/venv/*
+*/__pycache__/*
+*.pyc
